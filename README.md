@@ -1,5 +1,7 @@
 # Awesome DevRel
 
+I recently took the role as Head of DevRel at [Mintbase](https://mintbase.io). This is my personal take on what's interesting and relevant to Developer Relations and Developer Experience. 
+
 - https://leerob.io/blog/dx
 - https://leerob.io/blog/devrel-at-vercel
 - https://www.swyx.io/measuring-devrel
