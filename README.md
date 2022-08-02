@@ -14,6 +14,9 @@ I recently took the role as Head of DevRel at [Mintbase](https://mintbase.io). T
   - Twitter: https://twitter.com/leeerob
   - Website: https://leerob.io/
 
+- **Shawn Wang** Head of DX at [Airbyte](https://airbyte.com/)
+  - Twitter: https://twitter.com/swyx
+  - Website: https://www.swyx.io/
 
 ## Other lists
 - [Awesome DevRel by The DevRel Collective](https://github.com/devrelcollective/awesome-devrel)
