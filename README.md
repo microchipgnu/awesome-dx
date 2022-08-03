@@ -72,7 +72,7 @@ I recently took the role as Head of DevRel at [Mintbase](https://mintbase.io). T
   - Twitter: https://twitter.com/mary_grace
   - Website: https://www.marythengvall.com/
   
- - **Caroline Lewko** DevRel, author of the https://devrelbook.com
+- **Caroline Lewko** DevRel, author of the https://devrelbook.com
   - Twitter: https://twitter.com/carolinelewko
 
 ## Resources
