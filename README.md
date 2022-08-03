@@ -75,6 +75,9 @@ I recently took the role as Head of DevRel at [Mintbase](https://mintbase.io). T
  - **Caroline Lewko** DevRel, author of the https://devrelbook.com
   - Twitter: https://twitter.com/carolinelewko
 
+## Resources
+- [DevRel Resources curated by Mary Thengvall](https://devrelresourc.es)
+
 ## Other lists
 - [Awesome DevRel by The DevRel Collective](https://github.com/devrelcollective/awesome-devrel)
 - [Awesome DX by workos](https://github.com/workos/awesome-developer-experience)
