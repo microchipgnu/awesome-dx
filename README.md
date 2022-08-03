@@ -47,6 +47,7 @@ I recently took the role as Head of DevRel at [Mintbase](https://mintbase.io). T
 - https://www.swyx.io/measuring-devrel
 - https://leerob.io/blog/head-of-devrel
 - https://theworst.dev/developer-experience
+- https://www.marythengvall.com/blog/2019/5/22/what-is-developer-relations-and-why-should-you-care
 
 ## People
 
@@ -61,6 +62,10 @@ I recently took the role as Head of DevRel at [Mintbase](https://mintbase.io). T
 - **Kurt Temple** DX Consultant
   - Twitter: https://twitter.com/theworstdev
   - Website: https://theworst.dev/
+
+- **Mary Thengvall** Director DevRel at [Camunda](https://camunda.com/)
+  - Twitter: https://twitter.com/mary_grace
+  - Website: https://www.marythengvall.com/
 
 ## Other lists
 - [Awesome DevRel by The DevRel Collective](https://github.com/devrelcollective/awesome-devrel)
