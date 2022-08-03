@@ -22,6 +22,19 @@ I recently took the role as Head of DevRel at [Mintbase](https://mintbase.io). T
 
 ![DX (1)](https://user-images.githubusercontent.com/5553483/182556144-09ea057a-47dc-414f-b7f6-e26a58838a78.png)
 
+## DX goals
+
+- Product provides instant value
+  - Consider libraries (if platform-ish)
+- Onboarding is self-service based
+- Easy to read and informative (API) documenation
+- Low learning curve - fast 1st positive experience
+- Offers space and time for learning (freemium)
+- Sample apps (open source)
+- Supports developer's workflow
+- Supports architecture trends
+- CLI tools for automation and testing
+
 ## How to measure DevRel?
 
 ![t6b2x3y2oe6v1o7eu053](https://user-images.githubusercontent.com/5553483/182554985-faba575c-2beb-4958-9f21-b7973f927997.png)
