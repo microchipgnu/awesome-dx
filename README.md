@@ -16,6 +16,11 @@ I recently took the role as Head of DevRel at [Mintbase](https://mintbase.io). T
 >
 > \- Kurt Temple in https://theworst.dev/developer-experience
 
+> At Vercel, Developer Experience is a superset of Developer Relations (which is focused on building community and advocating for the product) and Documentation.
+> 
+> \- Lee Robinson in https://leerob.io/blog/dx
+
+![DX (1)](https://user-images.githubusercontent.com/5553483/182556144-09ea057a-47dc-414f-b7f6-e26a58838a78.png)
 
 ## How to measure DevRel?
 
