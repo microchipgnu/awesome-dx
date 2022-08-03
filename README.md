@@ -33,9 +33,13 @@ I recently took the role as Head of DevRel at [Mintbase](https://mintbase.io). T
 - Sample apps (open source)
 - Supports developer's workflow
 - Supports architecture trends
-- CLI tools for automation and testing
+- CLI tools for automation and testin
 
 ## How to measure DevRel?
+
+![t6b2x3y2oe6v1o7eu053](https://user-images.githubusercontent.com/5553483/182554985-faba575c-2beb-4958-9f21-b7973f927997.png)
+
+## DevRel Journey map
 
 ![t6b2x3y2oe6v1o7eu053](https://user-images.githubusercontent.com/5553483/182554985-faba575c-2beb-4958-9f21-b7973f927997.png)
 
@@ -66,6 +70,9 @@ I recently took the role as Head of DevRel at [Mintbase](https://mintbase.io). T
 - **Mary Thengvall** Director DevRel at [Camunda](https://camunda.com/)
   - Twitter: https://twitter.com/mary_grace
   - Website: https://www.marythengvall.com/
+  
+ - **Caroline Lewko** DevRel, author of the https://devrelbook.com
+  - Twitter: https://twitter.com/carolinelewko
 
 ## Other lists
 - [Awesome DevRel by The DevRel Collective](https://github.com/devrelcollective/awesome-devrel)
