@@ -41,7 +41,8 @@ I recently took the role as Head of DevRel at [Mintbase](https://mintbase.io). T
 
 ## DevRel Journey map
 
-![t6b2x3y2oe6v1o7eu053](https://user-images.githubusercontent.com/5553483/182554985-faba575c-2beb-4958-9f21-b7973f927997.png)
+![IMG_9643](https://user-images.githubusercontent.com/5553483/182586489-2f335c70-bac5-4828-8838-b40b1a971e4d.PNG)
+
 
 
 ## Articles
